@@ -2,7 +2,7 @@
 
 A data-driven project that analyzes and visualizes insights from `data_extended.csv` using Python, Jupyter Notebook, and a Streamlit app for interactive exploration.
 
-**Live App Link:** [Streamlit App](https://ann---breast-cancer-dataset-kkjqkeo7rhu83vmfkjz2ew.streamlit.app/)
+**Live App Link:** [Streamlit App](https://ann---breast-cancer-dataset-mwt36ampylrhvknhgfqbya.streamlit.app/)
 
 ---
 
