@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+from tensorflow.keras.models import load_model
 import joblib
 
-# Load trained model and scaler
-model=joblib.load("model.pkl")
+model=load_model("model.h5")
 scaler=joblib.load("scaler.pkl")
 
 st.title("Breast Cancer Prediction App")
